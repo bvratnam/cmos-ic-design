@@ -1,0 +1,9 @@
+jupyterlab
+lcapy
+pandas
+numpy
+seaborn
+plotly
+bokeh
+jupyter-bokeh
+gradio
